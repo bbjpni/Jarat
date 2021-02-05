@@ -8,7 +8,10 @@ namespace Jarat
 {
     public class Jarat
     {
-        private string JaratSzam;
-
+        public string JaratSzam;
+        public string HonnanRepter;
+        public string HovaRepter;
+        public int Indulas;
+        public int Keses;
     }
 }
